@@ -47,7 +47,7 @@ const Footer = () => {
                             <span> <Facebook /> </span>
                             <span> <Twitter /> </span>
                             <span> <Instagram /> </span>
-                        </div>
+                        </div> 
                     </div>
                 </div>
             </div>
